@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🔭 I’m Ho Shum (Chester) Luo, studying at Northeastern University, China, will graduate at 2024.
+🔭 I’m Ho Shum (Chester) Law, studying at Northeastern University, China, will graduate at 2024.
 
 🌱 I will continue for Master degress in Data Science at City University of Hong Kong and I’m looking for research assistant (RA) opportunity in Hong Kong or Shenzhen.
 
