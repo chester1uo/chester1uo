@@ -14,5 +14,3 @@ Robust and privacy-preserving reinforcement learning
 Accelerating machine learning inferencing
 
 
-📫 How to reach me: My linkedin page is: https://www.linkedin.com/in/chester-luo-71a178291/
-
